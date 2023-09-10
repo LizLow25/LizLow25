@@ -3,8 +3,7 @@
 
 
 
-- 🔭 I’m currently working on my project EverEtsy, an Etsy clone!
-- 🌱 I’m currently learning Python!
+- 🌱 I’m currently learning C#!
 - 💬 Ask me about permaculture in Colorado 🤓
 - 📫 How to reach me: eglowry@gmail.com
 - 😄 Pronouns: She/Her
